@@ -1,0 +1,35 @@
+*{
+    background-color: #adbbda;
+}
+
+.about,.Education,.project,.Contact{
+    font-size: 1.5vw;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #062830; 
+    font-weight: 500;
+    margin: 3vw;
+    
+    justify-content: center;
+    align-items: center;
+   
+}
+.inner,.Education,.project,.Contact{
+   
+    border: 5px solid black; 
+    border-radius: 3vw; 
+    margin: 0.5vw;
+    background-color: #e3e5e9;
+}
+p,b{
+    margin: 2vw;
+    background-color:#e3e5e9;
+}
+.Contact{
+   
+margin-left: 32vw;
+margin-top: 15vw;
+    width: 35vw;
+}
+i{
+    border-radius: 40vw;
+}
